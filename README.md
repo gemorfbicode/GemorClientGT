@@ -1,2 +1,0 @@
-# GemorClientGT
-GemorClientGT Purchase Page
